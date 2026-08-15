@@ -34,7 +34,7 @@ MODEL_FILES = {
     "Decision Tree": "decision_tree.joblib",
     "kNN": "knn.joblib",
     "Naive Bayes": "naive_bayes.joblib",
-    "Random Forest (Ensemble)": "random_forest.joblib",
+    "Random Forest": "random_forest.joblib",
 }
 
 st.set_page_config(page_title="Dry Bean Classifier", page_icon="🫘", layout="wide")
