@@ -46,6 +46,7 @@ project-folder/
 │-- README.md
 │-- test_data.csv          # 20% held-out test split
 │-- Dry_Bean_Dataset.csv   # full dataset
+|-- experiment.ipynb
 │-- model/
 │    │-- train_models.py    # trains + saves all 5 models
 │    │-- *.joblib           # saved model pipelines
